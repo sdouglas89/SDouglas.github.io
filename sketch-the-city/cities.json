@@ -1,0 +1,14 @@
+{
+  "cities": [
+    {
+      "title": "USNA Current Conditions",
+      "id": "a0405c02efe14ebfa69b244bda2793b6",
+      "attribution": "Current US Naval Acadey"
+    },
+    {
+      "title": "USNA Future Conditions",
+      "id": "26732895338d4c3aa1a719c2e4deac8b",
+      "attribution": "Future US Naval Academy"
+    }
+  ]
+}
