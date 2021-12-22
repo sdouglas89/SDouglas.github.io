@@ -10,7 +10,7 @@ body {
 
 #menu button {
   background: #F1EFE6;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #00205B;
 }
 
 #menu button:hover, #mode:hover, .slide:hover {
@@ -27,12 +27,12 @@ a:hover {
 
 #mode {
   background: #F1EFE6;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #00205B;
 }
 
 .slide {
   background: #F1EFE6;
-  border-color: black;
+  border-color: #00205B;
 }
 
 .esri-attribution, #attribution {
