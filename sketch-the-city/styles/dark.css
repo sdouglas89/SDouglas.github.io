@@ -1,25 +1,25 @@
 
 body {
-  color: white;
+  color: #E8B00F;
 }
 
 body {
-  background-image: url('./background-chalk.jpg');
+  background-image: url('./background-navy-blue.jpg');
   background-size: cover;
 }
 
 #menu button {
-  background: #2C2C2C;
-  color: white;
-  border-bottom: 1px solid white;
+  background: #00205B;
+  color: #E8B00F;
+  border-bottom: 1px solid #E8B00F;
 }
 
 .esri-attribution, #intro, #loading, #error {
-  color: white;
+  color: #E8B00F;
 }
 
 .esri-attribution, #attribution {
-  background-color: #2C2C2C;
+  background-color: #00205B;
 }
 
 #menu button:hover, #mode:hover, .slide:hover {
@@ -31,9 +31,9 @@ a:hover {
 }
 
 #mode {
-  background: #2C2C2C;
-  color: white;
-  border-bottom: 1px solid white;
+  background: #00205B;
+  color: #E8B00F;
+  border-bottom: 1px solid #E8B00F;
 }
 
 #loading>img {
@@ -41,7 +41,7 @@ a:hover {
 }
 
 .slide {
-  background: #2C2C2C;
-  color: white;
-  border-color: white;
+  background: #00205B;
+  color: #E8B00F;
+  border-color: #E8B00F;
 }
